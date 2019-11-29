@@ -1,0 +1,11 @@
+rm *.aux
+rm *.gz
+rm *.log
+rm *.nav
+rm *.out
+rm *.synctex
+rm *.synctex.gz
+rm *.tmp
+rm *.toc
+
+
