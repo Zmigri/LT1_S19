@@ -1,0 +1,10 @@
+440f5f6 (HEAD -> master, origin/master) created script that deletes everything except .tex
+d199359 added .gitignore
+7c03617 new script
+
+
+440f5f6 (HEAD -> master, origin/master) created script that deletes everything except .tex
+d199359 added .gitignore
+7c03617 new script
+
+same output with git log and exec_read.sh !!
